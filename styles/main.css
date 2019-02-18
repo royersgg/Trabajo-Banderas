@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.active{
+  background-color: rgb(219, 32, 32);
+}
+
+nav{
+  background-color:rgb(34, 190, 218);
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  list-style: none;
+}
+nav ul li a{
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+h1{
+  background-color:rgb(44, 117, 212);
+  text-align: center;
+}
+
+/* Estilos de pagina 1*/
+.page1{
+  height: 270px;
+  width: 700px;
+  border: solid;
+  border-color:black;
+  margin: 30px auto;
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+}
+.page1 article{
+  height: 225px;
+  width: 333px;
+  border: solid;
+  border-color: black;
+  margin: 2px 1px 22px 5px;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  padding-top: 10px;
+}
+/* Estilo bandera de Japon*/
+.page1 article div{
+  height: 220px;
+  width: 330px;
+  color: white;
+}
+.page1 article div aside nav{
+  width: 100px;
+  height: 100px;
+  margin: 50px 20px 20px 115px;
+  background-color: rgb(212, 12, 12);
+  border-radius: 50%;
+}
+.page1 article div h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: -36px 0 0 0;
+}
+.page1 article div aside{
+  height: 220px;
+  width: 330px;
+  color: white;
+}
+/* Estilo bandera de Colombia*/
+.page1 article footer{
+  height: 227px;
+  width: 327px;
+  margin: -9px 10px 22px 0px;
+  color: yellow;
+  border: solid;
+}
+.page1 article footer section{
+  height: 107px;
+  width: 330px;
+  margin: auto;
+  background-color: yellow;
+}
+.page1 article footer div{
+  height: 63px;
+  width: 333px;
+  margin: -3px 8px 7px -3px;
+  background-color: blue;
+}
+.page1 article footer nav{
+  height: 64px;
+  width: 333px;
+  margin: -7px 8px 7px -3px;
+  background-color: red;
+}
+.page1 article footer h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: 9px 0 0 0;
+}
+/* Estilo Fila 2 Banderas*/
+
+ .page11{
+  height: 270px;
+  width: 700px;
+  border: solid;
+  border-color: black;
+  margin: 30px auto;
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+}
+.page11 article{
+  height: 225px;
+  width: 333px;
+  border: solid;
+  border-color: black;
+  margin: 1px 1px 21px 5px;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  padding-top: 10px;
+  vertical-align: top;
+}
+/* Bandera de Argentia*/
+.page11 article footer{
+  height: 227px;
+  width: 327px;
+  margin: -10px 10px 22px 0px;
+  color:cornflowerblue;
+  border: solid;
+}
+.page11 article footer section{
+  height: 75px;
+  width: 327px;
+  margin: 0px auto;
+  background-color:cornflowerblue;
+}
+.page11 article footer div{
+  height: 75px;
+  width: 332px;
+  margin: 0px 0px 0px -2px;
+  background-color: rgb(245, 244, 244);
+}
+
+.page11 article footer nav{
+  height: 80px;
+  width: 327px;
+  margin: 0px auto;
+  background-color:cornflowerblue;
+}
+.page11 footer div img{
+  height: 60px;
+  width: 60px;
+  margin: 7px 7px 5px 138px;
+}
+.page11 article footer h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: 9px 0 0 0;
+  font-size: 20px;
+}
+/* Estilo bandera de Corea*/
+.page11 article aside{
+  height: 227px;
+  width: 327px;
+  margin: -10px 10px 22px 0px;
+  color:rgb(42, 42, 216);
+  border: solid;
+}
+.page11 article aside section{
+  height: 55px;
+  width: 332px;
+  margin: 0px 0px 0px -2px;
+  background-color: blue;
+}
+.page11 article aside nav{
+  height:8px;
+  width: 333px;
+  margin: 0px 0px 0px -3px;
+  background-color:rgb(241, 241, 241);
+}
+.page11 article aside div{
+  height: 56px;
+  width: 283px;
+  margin: 0px 0px 0px -3px;
+  background-color: red;
+  padding: 25px;
+}
+.page11 article aside div ol{
+  width: 75px;
+  height: 75px;
+  margin: -7px 20px 20px 55px;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+}
+.page11 article aside div ol img{
+  height: 70px;
+  width: 70px;
+  margin: 1px 0px 0px 2px;
+}
+.page11 article aside h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: 9px 0 0 0;
+  font-size: 20px;
+}
+/*Estilos fila 3 banderas*/
+.page111{
+  height: 270px;
+  width: 700px;
+  border: solid;
+  border-color: black;
+  margin: 30px auto;
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+}
+.page111 ul{
+  height: 225px;
+  width: 333px;
+  border: solid;
+  border-color: black;
+  margin: 1px 1px 21px 5px;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  padding-top: 10px;
+  vertical-align: top;
+}
+/* Estilo Bandera Panama*/
+.page111 ul ol{
+  height: 235px;
+  width: 333px;
+  margin: -19px 10px 22px 0px;
+  background-color: transparent;
+}.page111 ul ol section{
+  height: 119px;
+  width: 177px;
+  margin: -10px 10px 23px 156px;
+  background-color: rgb(179, 12, 12);
+  vertical-align: top;
+}
+.page111 ul ol aside{
+  height: 119px;
+  width: 157px;
+  margin: -25px 10px 22px 0px;
+  background-color: rgb(11, 26, 155);
+}
+.page111 ul ol bdi{
+  height: 119px;
+  width: 157px;
+  margin: auto;
+  background-color: rgb(231, 135, 45);
+}
+
+.page111 ul ol img{
+  height: 70px;
+  width: 70px;
+  margin: 5px 5px -82px 45px;
+}
+
+.page111 ul ol h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: -13px 0 0 0;
+  font-size: 20px;
+}
+/* Estilo Bandera España*/
+.page111 ul li{
+  height: 228px;
+  width: 328px;
+  margin: -10px 10px 22px 0px;
+  color: red;
+  border: solid;
+}
+.page111 ul li ol{
+  height: 64px;
+  width: 334px;
+  margin: -2px 0px 7px -3px;
+  background-color: red;
+  vertical-align: top;
+}
+.page111 ul li footer{
+  height: 120px;
+  width: 334px;
+  margin: -19px 0px 0px -3px;
+  background-color: yellow;
+}
+.page111 ul li footer img{
+  height: 90px;
+  width: 90px;
+  margin: 15px 7px -75px 69px;
+}
+.page111 ul li h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: 9px 0 0 0;
+  font-size: 20px;
+}
