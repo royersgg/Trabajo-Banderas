@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto');
+*{
+  margin: 0;
+  padding: 0;
+}
+
+.active{
+  background-color: rgb(219, 32, 32);
+}
+
+nav{
+  background-color:rgb(34, 190, 218);
+  text-align: center;
+}
+nav ul li {
+  display: inline-block;
+  list-style: none;
+}
+nav ul li a{
+  display: inline-block;
+  padding: 10px 20px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+}
+h1{
+  background-color:rgb(44, 117, 212);
+  text-align: center;
+}
