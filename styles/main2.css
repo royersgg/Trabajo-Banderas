@@ -28,3 +28,287 @@ h1{
   background-color:rgb(44, 117, 212);
   text-align: center;
 }
+/*Estilo pagina 2*/
+.page2{
+  height: 270px;
+  width: 700px;
+  border: solid;
+  border-color:black;
+  margin: 30px auto;
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+}
+.page2 article{
+  height: 225px;
+  width: 333px;
+  border: solid;
+  border-color: black;
+  margin: 2px 1px 22px 5px;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  padding-top: 10px;
+  vertical-align: top;
+}
+/*Estilo Bandera rusia*/
+.page2 article ul{
+  height: 231px;
+  width: 329px;
+  margin: -12px 10px 22px 0px;
+  color: black;
+  border: solid;
+}
+.page2 article section{
+  height: 77px;
+  width: 332px;
+  margin: 0px 0px 0px -2px;
+  background-color: white;
+}
+.page2 article div{
+  height: 77px;
+  width: 332px;
+  margin: 0px 0px 0px -2px;
+  background-color:blue;
+}
+.page2 article nav{
+  height: 79px;
+  width: 332px;
+  margin: 0px 0px 0px -2px;
+  background-color:red;
+}
+.page2 article h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: 9px 0 0 0;
+  font-size: 20px;
+}
+/*Estilo Bandera Mexico*/
+.page2 aside{
+  height: 231px;
+  width: 329px;
+  margin: -12px 10px 22px 0px;
+  color: black;
+  border: solid;
+}
+.page2 aside section{
+  height: 233px;
+  width: 90px;
+  margin: 0px 0px 0px -2px;
+  background-color: green;
+}
+.page2 aside h2{
+  height: 233px;
+  width: 151px;
+  margin: -233px 0px 0px 88px;
+  background-color:white;
+}
+.page2 aside h3{
+  height: 233px;
+  width: 90px;
+  margin: -233px 0px 0px 239px;
+  background-color:red;
+}
+.page2 aside h2 img{
+  height: 100px;
+  width: 100px;
+  margin: 62px 0px 0px 30px;
+}
+
+.page2 aside h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: 9px 0 0 0;
+  font-size: 20px;
+}
+/*Estilo fila 2*/
+.page22 {
+  height: 270px;
+  width: 700px;
+  border: solid;
+  border-color: black;
+  margin: 30px auto;
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+}
+.page22 footer{
+  height: 225px;
+  width: 333px;
+  border: solid;
+  border-color: black;
+  margin: 2px 1px 22px 5px;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  padding-top: 10px;
+  vertical-align: top;
+}
+/*Estilo Bandera Costa Rica*/
+.page22 footer aside{
+  height: 231px;
+  width: 329px;
+  margin: -12px 10px 22px 0px;
+  color: black;
+  border: solid;
+}
+.page22 footer aside ol{
+  height: 37px;
+  width: 332px;
+  margin: 0px 0px 0px -2px;
+  background-color: blue;
+}
+.page22 footer aside h4{
+  height: 35px;
+  width: 332px;
+  margin: 0px 0px 0px -2px;
+  background-color: white;
+}
+.page22 footer aside h5{
+  height: 89px;
+  width: 332px;
+  margin: 0px 0px 0px -2px;
+  background-color: red;
+  vertical-align: top;
+  padding-top: 1px;
+
+}
+.page22 footer aside h5 div{
+  width: 60px;
+  height: 80px;
+  margin: 4px 0px 5px 87px;
+  background-color: white;
+  border-radius: 50%;
+}
+.page22 footer aside h5 div img{
+  height: 62px;
+  width: 55px;
+  margin: 8px 0px 0px 2px;
+}
+.page22 footer aside h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: 9px 0 0 0;
+  font-size: 20px;
+}
+/*Estilo Bandera Finlandia*/
+.page22 footer div{
+  height: 233px;
+  width: 332px;
+  margin: -12px 10px 22px -2px;
+  color: black;
+  border: solid;
+}
+.page22 footer div section{
+  height: 233px;
+  width: 60px;
+  margin: 0px 0px 0px 95px;
+  background-color: rgb(12, 12, 172);
+}
+.page22 footer div li{
+  height: 60px;
+  width: 332px;
+  margin: -149px 0px 0px 0px;
+  background-color: rgb(12, 12, 172);
+}
+.page22 footer div h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: 99px 0 0 0;
+  font-size: 20px;
+}
+/*Estilo fila 3 */
+
+.page222{
+  height: 270px;
+  width: 700px;
+  border: solid;
+  border-color: black;
+  margin: 30px auto;
+  background-color: rgb(255, 255, 255);
+  padding: 5px;
+}
+.page222 h2{
+  height: 225px;
+  width: 333px;
+  border: solid;
+  border-color: black;
+  margin: 2px 1px 22px 5px;
+  display: inline-block;
+  background-color: rgb(255, 255, 255);
+  padding-top: 10px;
+  vertical-align: top;
+}
+/*Estilo Bandera egipto*/
+.page222 h2 footer{
+  height: 231px;
+  width: 332px;
+  margin: -12px 10px 22px -2px;
+  color: black;
+  border: solid;
+  vertical-align: top;
+  padding-top: 3px;
+}
+.page222 h2 footer ol{
+  height: 75px;
+  width: 333px;
+  margin: -3px 0px 0px 0px;
+  background-color: rgb(202, 0, 0);
+}
+.page222 h2 footer ul{
+  height: 75px;
+  width: 333px;
+  margin: 5px 0px 0px 0px;
+  background-color: black;
+}
+.page222 h2 footer img{
+  height: 65px;
+  width: 60px;
+  margin: 8px 0px 0px 129px;
+}
+.page222 h2 footer h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: 6px 0 0 0;
+  font-size: 20px;
+}
+.page222 h2 div{
+  height: 231px;
+  width: 332px;
+  margin: -12px 10px 22px -2px;
+  color: black;
+  border: solid;
+  vertical-align: top;
+  padding-top: 3px;
+}
+.page222 h2 h5{
+  height: 234px;
+  width: 90px;
+  margin: -3px 0px 0px 0px;
+  background-color: red;
+}
+.page222 h2 h3{
+  height: 234px;
+  width: 80px;
+  margin: -234px 0px 0px 252px;
+  background-color: red;
+}
+.page222 h2 h4{
+  height: 234px;
+  width: 162px;
+  margin: -234px 0px 0px 90px;
+  background-color:white;
+}
+.page222 h2 h4 img{
+  height: 150px;
+  width: 150px;
+  margin: 50px 0px 0px 6px;
+}
+.page222 h2 div h1{
+  background-color: rgb(253, 253, 253);
+  text-align: center;
+  color: black;
+  margin: 6px 0 0 0;
+  font-size: 20px;
+}
